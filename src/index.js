@@ -54,5 +54,5 @@ async function testRedis() {
         console.log(fetchedUser);
     }
 }
-testRedis();
+// testRedis();
 //# sourceMappingURL=index.js.map
